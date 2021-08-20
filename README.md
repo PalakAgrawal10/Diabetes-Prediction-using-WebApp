@@ -1,6 +1,6 @@
-# Penguins web app deployed on Heroku
+# Diabetes web app deployed on Heroku
 
-This web app predicts the species of penguins as a function of their input parameters (bill length, bill width, flipper length, body mass, sex and island).
+This web app predicts whether a person is diabetic or not as a function of the input parameters (Pregnancies,Glucose,Blood Pressure,Skin Thickness,Insulin,BMI,	Diabetes  Pedigree Function and	Age).
 
 The web app was built in Python using the following libraries:
 * streamlit
